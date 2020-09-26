@@ -1,0 +1,9 @@
+   Functia acestui website este de a pune si a raspunde la intrebari, acestea sunt salvate pentru a fi accesate si utilizate ulterior si de persoane neimplicate in discutie, discutia fiind publica.
+Pentru a facilita accesul la informatiile deja culese, raspunsuri la intrebari si probleme deja solutionate, este  folosit un motor de cautare si cuvinte cheie (tags). Pe langa acestea tot pentru
+a evidentia intrarile de interes pentru un public larg, utilizatorii pot vota comentariile fie ele raspunsuri sau intrebari, acest lucru are si un aspect psihologic de premiere (strans de like-uri),
+care incurajeaza utilizatorii sa raspunda la intrebari.
+
+  Partea financiara, exista un sistem pe baza de subscribtie care ofera anumite analize si rapoarte, tratament prioritar in caz de probleme si cloud services. De asemenea exista un job board care
+ar putea fi monetarizat.
+  
+  Sistemul trebuie sa aiba o memorie (estimatie proprie) in ordinul a catorva zeci de terra pentru a retine informatia text si sa permita accesul concomitent a milione de utilizatori la aceasta.     
